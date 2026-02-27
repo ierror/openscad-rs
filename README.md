@@ -153,6 +153,10 @@ cargo bench
 - **Lossless source locations** — Every AST node carries a `Span` with byte offsets for precise source mapping.
 - **Recursion depth guard** — Prevents stack overflow on adversarial/deeply nested inputs.
 
+## Contact
+
+[@boerni@chaos.social](https://chaos.social/@boerni)
+
 ## License
 
 GPL v3
