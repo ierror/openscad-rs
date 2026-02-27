@@ -1,5 +1,9 @@
 # openscad-rs
 
+[![Crates.io](https://img.shields.io/crates/v/openscad-rs.svg)](https://crates.io/crates/openscad-rs)
+[![docs.rs](https://docs.rs/openscad-rs/badge.svg)](https://docs.rs/openscad-rs)
+[![CI](https://github.com/ierror/openscad-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/ierror/openscad-rs/actions/workflows/ci.yml)
+
 A [OpenSCAD](https://openscad.org) parser library for Rust.
 
 Parses `.scad` source files into a well-typed AST suitable for building compilers, formatters, linters, and language servers.
